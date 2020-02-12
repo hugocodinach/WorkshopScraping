@@ -1,7 +1,6 @@
 let express = require("express");
 let router = express.Router();
 let bodyParser = require("body-parser");
-let Amazon = require('./Scripts/amazon');
 
 const request = require("request");
 
